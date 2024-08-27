@@ -1,6 +1,3 @@
 Resource Management and Techniques (MCA) - Code Repository
-This repository contains code implementations for the Resource Management and Techniques subject in the MCA degree program.
-
-Contents
-Algorithms: Implementations of key algorithms covered in the course.
-Optimization Techniques: Code examples demonstrating various resource optimization methods.
+Golden Selection Search Algorithm output
+<img width="490" alt="image" src="https://github.com/user-attachments/assets/f00b3842-bf1c-46eb-a9b3-e5f1af9c7319">
