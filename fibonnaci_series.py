@@ -8,7 +8,7 @@ def fibonacci_search(f, l, r, n):
     k = 1
     while k < n:
         # Calculate the ratio of the Fibonacci numbers
-        fk = (fib[n] - k)/( fib[n-k+1])
+        fk = (fib[n-k])/( fib[n-k+1])
         ratio = round(fk, 3)
         # x1 = d , x2 = c
         x2 = round(l + ratio * (r - l), 3)
