@@ -8,3 +8,7 @@ Fibonacci Search code output
 Golden Selection Search Algorithm output
 
 <img width="490" alt="image" src="https://github.com/user-attachments/assets/f00b3842-bf1c-46eb-a9b3-e5f1af9c7319">
+
+Lagrange Method 
+
+<img width="466" alt="image" src="https://github.com/user-attachments/assets/fad656ca-c1d7-4d58-b241-4a989e0b31f5">
